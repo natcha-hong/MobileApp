@@ -24,12 +24,13 @@ Libraries used in this project
    ```
 
 ## Challenges
-Windows cannot connect to the Android & IOS Due to Privacy block
-Use MacOS instead and also use Xcode
+* Windows cannot connect to the Android & IOS Due to Privacy block
+* Coding on MacOS, test on Xcode and Iphone
+* Will need to firgure our the Window issue later
 
 ## Function
 1. Can Create List
 2. Can Remove List
-3. Can Cross List 
+3. Can Cross/Mark Done List 
 4. Can Search for List
 5. Has instruction of what to do on the top left if click menu bar
